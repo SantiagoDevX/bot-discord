@@ -1,0 +1,8 @@
+// src/commands/perfil.js
+export default {
+  name: '',
+  description: '',
+  async execute(message, args) {
+    // lógica
+  }
+}
